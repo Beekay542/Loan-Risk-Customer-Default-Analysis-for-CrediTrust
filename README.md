@@ -57,6 +57,9 @@ Customer Risk Analysis
 ## RISK DEEP DIVE
 <img width="1323" height="742" alt="RISK" src="https://github.com/user-attachments/assets/1bce2222-a679-4972-9b0d-f3ba47a6c8fa" />
 
+## CUSTOMER SEGMENTATION
+<img width="1327" height="735" alt="EMPLOYMENT" src="https://github.com/user-attachments/assets/9b801e42-e415-4764-a945-58ce832fe53c" />
+
 ## Business Insights
 
 * Employment stability is a major indicator of repayment performance
