@@ -52,7 +52,8 @@ Customer Risk Analysis
 * Even excellent credit-score customers showed notable repayment challenges
 
 ## EXECUTIVE OVERVIEW
-<img width="1920" height="1009" alt="EXECUTIVE" src="https://github.com/user-attachments/assets/a9abb669-4426-41be-9b39-8fbefcc1cf88" />
+
+<img width="1321" height="745" alt="SC1" src="https://github.com/user-attachments/assets/8237d53f-cc55-4ebb-9186-7b23e017acac" />
 
 ## RISK DEEP DIVE
 <img width="1323" height="742" alt="RISK" src="https://github.com/user-attachments/assets/1bce2222-a679-4972-9b0d-f3ba47a6c8fa" />
