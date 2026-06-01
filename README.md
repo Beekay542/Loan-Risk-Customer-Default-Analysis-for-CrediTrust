@@ -51,6 +51,10 @@ Customer Risk Analysis
 * Default risk declined as credit quality improved
 * Even excellent credit-score customers showed notable repayment challenges
 
+## EXECUTIVE OVERVIEW
+<img width="1920" height="1009" alt="EXECUTIVE" src="https://github.com/user-attachments/assets/a9abb669-4426-41be-9b39-8fbefcc1cf88" />
+
+
 ## Business Insights
 
 * Employment stability is a major indicator of repayment performance
